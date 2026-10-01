@@ -1,6 +1,6 @@
 1.Write a java code to store The population of India & china and print the population
 2. Write a java code to calculate the area of a circle
-3. Write a java code to assign grade A for the student who have the marks above 90 Check if a exam or student has passed the (pars mark ii to) not
+3. Write a java code to assign grade A for the student who have the marks above 90 Check if a exam or student has passed the (pass mark ii to) not
 4. Java code for simple calculator
 5 Find the Sum and average of the array
 6. Code for adding rows in matrix
